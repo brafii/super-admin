@@ -88,3 +88,18 @@ table.table-bordered.dataTable {
     color: #fff;
     border-radius: 5px;
 }
+.my-cards-one{
+    background-color: #800080;
+    color: #fff;
+    border-radius: 5px;
+}
+.my-cards-two{
+    background-color: #000080;
+    color: #fff;
+    border-radius: 5px;
+}
+.my-cards-three{
+    background-color: #800000;
+    color: #fff;
+    border-radius: 5px;
+}
